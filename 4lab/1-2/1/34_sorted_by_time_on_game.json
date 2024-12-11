@@ -1,0 +1,342 @@
+[
+    {
+        "id": 576732,
+        "name": "Кубок мира 1993",
+        "city": "Ереван",
+        "begin": "18.11",
+        "system": "Swiss",
+        "tours_count": 14,
+        "min_rating": 2523,
+        "time_on_game": 16
+    },
+    {
+        "id": 656523,
+        "name": "Чемпионат мира 1962",
+        "city": "Фигерас",
+        "begin": "03.04",
+        "system": "Swiss",
+        "tours_count": 7,
+        "min_rating": 2374,
+        "time_on_game": 17
+    },
+    {
+        "id": 424652,
+        "name": "Макартур 2017",
+        "city": "Алькала-де-Энарес",
+        "begin": "10.07",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2526,
+        "time_on_game": 18
+    },
+    {
+        "id": 158035,
+        "name": "Европа 2000",
+        "city": "Семана",
+        "begin": "16.09",
+        "system": "Olympic",
+        "tours_count": 13,
+        "min_rating": 2500,
+        "time_on_game": 19
+    },
+    {
+        "id": 937264,
+        "name": "Вена 1952",
+        "city": "Алькала-де-Энарес",
+        "begin": "02.08",
+        "system": "circular",
+        "tours_count": 6,
+        "min_rating": 2643,
+        "time_on_game": 19
+    },
+    {
+        "id": 568342,
+        "name": "Алушта 2006",
+        "city": "Сория",
+        "begin": "21.11",
+        "system": "Swiss",
+        "tours_count": 15,
+        "min_rating": 2485,
+        "time_on_game": 22
+    },
+    {
+        "id": 886029,
+        "name": "Цюрих 1972",
+        "city": "Пласенсия",
+        "begin": "06.01",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2435,
+        "time_on_game": 28
+    },
+    {
+        "id": 830385,
+        "name": "Гашиш 1978",
+        "city": "Тбилиси",
+        "begin": "24.04",
+        "system": "Olympic",
+        "tours_count": 14,
+        "min_rating": 2277,
+        "time_on_game": 31
+    },
+    {
+        "id": 830679,
+        "name": "Реджо-нель-Эмилия 1973",
+        "city": "Любляна",
+        "begin": "05.09",
+        "system": "Swiss",
+        "tours_count": 15,
+        "min_rating": 2378,
+        "time_on_game": 35
+    },
+    {
+        "id": 693134,
+        "name": "Гашиш 2005",
+        "city": "Краков",
+        "begin": "07.07",
+        "system": "Swiss",
+        "tours_count": 9,
+        "min_rating": 2201,
+        "time_on_game": 37
+    },
+    {
+        "id": 887969,
+        "name": "Гашиш 1961",
+        "city": "Трухильо",
+        "begin": "20.12",
+        "system": "Olympic",
+        "tours_count": 12,
+        "min_rating": 2547,
+        "time_on_game": 40
+    },
+    {
+        "id": 362146,
+        "name": "Мемориал Таля 1965",
+        "city": "Навалькарнеро",
+        "begin": "16.03",
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2492,
+        "time_on_game": 46
+    },
+    {
+        "id": 414362,
+        "name": "Цюрих 1992",
+        "city": "Хихон",
+        "begin": "10.12",
+        "system": "Swiss",
+        "tours_count": 10,
+        "min_rating": 2570,
+        "time_on_game": 46
+    },
+    {
+        "id": 905847,
+        "name": "Вейк-ан-Зее 1968",
+        "city": "Осера",
+        "begin": "09.05",
+        "system": "Swiss",
+        "tours_count": 11,
+        "min_rating": 2628,
+        "time_on_game": 46
+    },
+    {
+        "id": 459888,
+        "name": "Алушта 1987",
+        "city": "Алма-Ата",
+        "begin": "02.06",
+        "system": "Swiss",
+        "tours_count": 10,
+        "min_rating": 2597,
+        "time_on_game": 47
+    },
+    {
+        "id": 866856,
+        "name": "Макартур 1983",
+        "city": "Афины",
+        "begin": "08.12",
+        "system": "circular",
+        "tours_count": 12,
+        "min_rating": 2520,
+        "time_on_game": 47
+    },
+    {
+        "id": 954261,
+        "name": "Европа 2007",
+        "city": "Мадрид",
+        "begin": "14.05",
+        "system": "circular",
+        "tours_count": 11,
+        "min_rating": 2261,
+        "time_on_game": 48
+    },
+    {
+        "id": 279083,
+        "name": "Биль 1955",
+        "city": "Скопье",
+        "begin": "20.10",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2537,
+        "time_on_game": 55
+    },
+    {
+        "id": 589111,
+        "name": "Политика 2016",
+        "city": "Овьедо",
+        "begin": "08.01",
+        "system": "Olympic",
+        "tours_count": 6,
+        "min_rating": 2650,
+        "time_on_game": 55
+    },
+    {
+        "id": 202728,
+        "name": "Тилбург 2010",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "begin": "25.01",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2506,
+        "time_on_game": 55
+    },
+    {
+        "id": 917900,
+        "name": "Реджо-нель-Эмилия 1999",
+        "city": "Валенсия",
+        "begin": "16.04",
+        "system": "Swiss",
+        "tours_count": 9,
+        "min_rating": 2402,
+        "time_on_game": 56
+    },
+    {
+        "id": 707397,
+        "name": "Вена 1984",
+        "city": "Валенсия",
+        "begin": "01.03",
+        "system": "circular",
+        "tours_count": 6,
+        "min_rating": 2440,
+        "time_on_game": 60
+    },
+    {
+        "id": 173831,
+        "name": "Макартур 2000",
+        "city": "Мартоса",
+        "begin": "12.11",
+        "system": "Swiss",
+        "tours_count": 13,
+        "min_rating": 2421,
+        "time_on_game": 62
+    },
+    {
+        "id": 849719,
+        "name": "Гашиш 2012",
+        "city": "Льейда",
+        "begin": "08.08",
+        "system": "circular",
+        "tours_count": 10,
+        "min_rating": 2538,
+        "time_on_game": 65
+    },
+    {
+        "id": 783821,
+        "name": "Пальма 1966",
+        "city": "Льейда",
+        "begin": "10.02",
+        "system": "circular",
+        "tours_count": 13,
+        "min_rating": 2540,
+        "time_on_game": 67
+    },
+    {
+        "id": 323046,
+        "name": "Шамкович 1992",
+        "city": "Киев",
+        "begin": "05.12",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2211,
+        "time_on_game": 67
+    },
+    {
+        "id": 806978,
+        "name": "Дортмунд 1984",
+        "city": "Мерида",
+        "begin": "03.02",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2388,
+        "time_on_game": 68
+    },
+    {
+        "id": 467790,
+        "name": "Лондон 2023",
+        "city": "Тарраса",
+        "begin": "17.10",
+        "system": "Swiss",
+        "tours_count": 14,
+        "min_rating": 2594,
+        "time_on_game": 69
+    },
+    {
+        "id": 391807,
+        "name": "Чемпионат мира 1996",
+        "city": "Тбилиси",
+        "begin": "24.12",
+        "system": "Swiss",
+        "tours_count": 9,
+        "min_rating": 2646,
+        "time_on_game": 73
+    },
+    {
+        "id": 796626,
+        "name": "Турнир претендентов 2017",
+        "city": "Белград",
+        "begin": "06.04",
+        "system": "Olympic",
+        "tours_count": 12,
+        "min_rating": 2492,
+        "time_on_game": 74
+    },
+    {
+        "id": 702280,
+        "name": "Макартур 1955",
+        "city": "Кишинев",
+        "begin": "22.03",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2288,
+        "time_on_game": 77
+    },
+    {
+        "id": 614081,
+        "name": "Политика 1950",
+        "city": "Сараево",
+        "begin": "09.01",
+        "system": "circular",
+        "tours_count": 13,
+        "min_rating": 2218,
+        "time_on_game": 81
+    },
+    {
+        "id": 769431,
+        "name": "Тилбург 1959",
+        "city": "Севилья",
+        "begin": "06.12",
+        "system": "circular",
+        "tours_count": 14,
+        "min_rating": 2392,
+        "time_on_game": 82
+    },
+    {
+        "id": 278582,
+        "name": "Дортмунд 1988",
+        "city": "Кордова",
+        "begin": "09.01",
+        "system": "circular",
+        "tours_count": 9,
+        "min_rating": 2494,
+        "time_on_game": 82
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "min_rating_stats": {
+        "sum": 220279,
+        "min": 2201,
+        "max": 2650,
+        "avg": 2420.6483516483518
+    },
+    "system_frequencies": {
+        "Olympic": 33,
+        "Swiss": 28,
+        "circular": 30
+    }
+}

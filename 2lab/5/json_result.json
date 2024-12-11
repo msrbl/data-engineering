@@ -1,0 +1,50 @@
+{
+    "unique_player_count": 90334,
+    "left_foot_count": 21927,
+    "right_foot_count": 68407,
+    "joined_after_2012_count": 89792,
+    "metrics": {
+        "Age": {
+            "sum": 2267384,
+            "average": 25.1,
+            "max": 43,
+            "min": 16,
+            "std_dev": 4.79
+        },
+        "Overall rating": {
+            "sum": 5976676,
+            "average": 66.162,
+            "max": 91,
+            "min": 47,
+            "std_dev": 6.615
+        },
+        "Height": {
+            "sum": 16422572,
+            "average": 181.798,
+            "max": 206,
+            "min": 155,
+            "std_dev": 6.864
+        },
+        "Weight": {
+            "sum": 6799614,
+            "average": 75.272,
+            "max": 105,
+            "min": 51,
+            "std_dev": 6.968
+        },
+        "Wage": {
+            "sum": 800811450,
+            "average": 8865.006,
+            "max": 350000,
+            "min": 0,
+            "std_dev": 18734.008
+        },
+        "Total stats": {
+            "sum": 145562496,
+            "average": 1611.381,
+            "max": 2330,
+            "min": 701,
+            "std_dev": 274.046
+        }
+    }
+}

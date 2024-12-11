@@ -1,0 +1,254 @@
+[
+    {
+        "id": "22478",
+        "Название": "Афина-2",
+        "Гиперссылка": "/catalog/afina-2/po-vinyl-afina-2-600-belyy-zerkalo-grey-/",
+        "Изображение": "/upload/resize_cache/iblock/cdc/180_180_1/sp7rmbxx522f6yoze48d2fw8wzymcn2g.png",
+        "Цена": 12590,
+        "Покрытие": "Vinyl",
+        "Текущий цвет": "Белый",
+        "Цвета": [
+            {
+                "Название": "Белый",
+                "Изображение": "/upload/uf/4fa/4fa01851501875952d8f3058187a500e.jpg"
+            },
+            {
+                "Название": "Ваниль",
+                "Изображение": "/upload/uf/697/697862b8aa12f63849b0616a04b57c97.jpg"
+            },
+            {
+                "Название": "Платина",
+                "Изображение": "/upload/uf/9bc/4fqs1c0jvze6s2nqn4ugyhdlzkfm5zjq.jpg"
+            },
+            {
+                "Название": "Серый",
+                "Изображение": "/upload/uf/d38/d38af0f169460ef5a18667d3d8c48e4a.jpg"
+            }
+        ]
+    },
+    {
+        "id": "22309",
+        "Название": "Олимпия",
+        "Гиперссылка": "/catalog/olimpiya/pg-vinyl-olimpiya-600-vanil-/",
+        "Изображение": "/upload/resize_cache/iblock/af6/180_180_1/4ople5y6j5di07jwfqs5s0bbk4puisow.png",
+        "Цена": 7310,
+        "Покрытие": "Vinyl",
+        "Текущий цвет": "Ваниль",
+        "Цвета": [
+            {
+                "Название": "Белый",
+                "Изображение": "/upload/uf/4fa/4fa01851501875952d8f3058187a500e.jpg"
+            },
+            {
+                "Название": "Серый",
+                "Изображение": "/upload/uf/d38/d38af0f169460ef5a18667d3d8c48e4a.jpg"
+            },
+            {
+                "Название": "Ваниль",
+                "Изображение": "/upload/uf/697/697862b8aa12f63849b0616a04b57c97.jpg"
+            },
+            {
+                "Название": "Платина",
+                "Изображение": "/upload/uf/9bc/4fqs1c0jvze6s2nqn4ugyhdlzkfm5zjq.jpg"
+            }
+        ]
+    },
+    {
+        "id": "22509",
+        "Название": "Киото",
+        "Гиперссылка": "/catalog/kioto/po-vinyl-kioto-600-seryy-steklo-matelyuks-/",
+        "Изображение": "/upload/resize_cache/iblock/373/180_180_1/nns5xvk67jx5ll4r4bhr5kqpdj61wb2g.png",
+        "Цена": 8750,
+        "Покрытие": "Vinyl",
+        "Текущий цвет": "Серый",
+        "Цвета": [
+            {
+                "Название": "Серый",
+                "Изображение": "/upload/uf/d38/d38af0f169460ef5a18667d3d8c48e4a.jpg"
+            },
+            {
+                "Название": "Ваниль",
+                "Изображение": "/upload/uf/697/697862b8aa12f63849b0616a04b57c97.jpg"
+            },
+            {
+                "Название": "Белый",
+                "Изображение": "/upload/uf/4fa/4fa01851501875952d8f3058187a500e.jpg"
+            },
+            {
+                "Название": "Платина",
+                "Изображение": "/upload/uf/9bc/4fqs1c0jvze6s2nqn4ugyhdlzkfm5zjq.jpg"
+            }
+        ]
+    },
+    {
+        "id": "11192",
+        "Название": "Рим",
+        "Гиперссылка": "/catalog/rim/pg-vinyl-rim-600-belyy-/",
+        "Изображение": "/upload/resize_cache/iblock/c53/180_180_1/6xn26wpt27gmrzo5l83enoi20zhj0rej.jpeg",
+        "Цена": 7900,
+        "Покрытие": "Vinyl",
+        "Текущий цвет": "Белый",
+        "Цвета": [
+            {
+                "Название": "Ваниль",
+                "Изображение": "/upload/uf/697/697862b8aa12f63849b0616a04b57c97.jpg"
+            },
+            {
+                "Название": "Белый",
+                "Изображение": "/upload/uf/4fa/4fa01851501875952d8f3058187a500e.jpg"
+            },
+            {
+                "Название": "Серый",
+                "Изображение": "/upload/uf/d38/d38af0f169460ef5a18667d3d8c48e4a.jpg"
+            },
+            {
+                "Название": "Платина",
+                "Изображение": "/upload/uf/9bc/4fqs1c0jvze6s2nqn4ugyhdlzkfm5zjq.jpg"
+            }
+        ]
+    },
+    {
+        "id": "8935",
+        "Название": "Вена",
+        "Гиперссылка": "/catalog/vena/po-eko-shpon-vena-600-listvennitsa-mokko-steklo-matelyuks/",
+        "Изображение": "/upload/resize_cache/iblock/2f8/180_180_1/wy2fyrxtz7gnwxp8q6ak1fqp5lf4ys7w.jpeg",
+        "Цена": 4620,
+        "Покрытие": "Эко-шпон",
+        "Текущий цвет": "Лиственница мокко",
+        "Цвета": [
+            {
+                "Название": "Белый кипарис",
+                "Изображение": "/upload/uf/eaf/ceg8qskpssj9ld1ya5qdfney1i3qf13x.jpg"
+            },
+            {
+                "Название": "Лиственница мокко",
+                "Изображение": "/upload/uf/bfe/bfe6a923e269a35f2ea5db8fb3e3cc57.jpg"
+            },
+            {
+                "Название": "Темный кипарис",
+                "Изображение": "/upload/uf/e26/e26415a6b991b3c10b161aece31cbfc9.jpg"
+            },
+            {
+                "Название": "Серый кедр",
+                "Изображение": "/upload/uf/293/293e78c5203ccdf06810238bdd5def52.jpg"
+            },
+            {
+                "Название": "Венге",
+                "Изображение": "/upload/uf/855/85589ebba419d2e25b97cff73d891dfe.jpg"
+            },
+            {
+                "Название": "Ваниль",
+                "Изображение": "/upload/uf/697/697862b8aa12f63849b0616a04b57c97.jpg"
+            },
+            {
+                "Название": "Белый",
+                "Изображение": "/upload/uf/4fa/4fa01851501875952d8f3058187a500e.jpg"
+            },
+            {
+                "Название": "Пепельный дуб",
+                "Изображение": "/upload/uf/1f9/1f98276706a6916c5575bc18fe47d90c.jpg"
+            },
+            {
+                "Название": "Дуб нордик",
+                "Изображение": "/upload/uf/87e/87e463a496d19d7fbe45b79685dcd306.jpg"
+            },
+            {
+                "Название": "Натуральный дуб",
+                "Изображение": "/upload/uf/b9c/b9cc4aa603af659349e33e5f9b9fff1a.jpg"
+            },
+            {
+                "Название": "Серый",
+                "Изображение": "/upload/uf/d38/d38af0f169460ef5a18667d3d8c48e4a.jpg"
+            },
+            {
+                "Название": "Кедр снежный",
+                "Изображение": "/upload/uf/bec/fjf4r19kchf9mixwc9v9efjd3t8rogmz.jpg"
+            },
+            {
+                "Название": "Платина",
+                "Изображение": "/upload/uf/9bc/4fqs1c0jvze6s2nqn4ugyhdlzkfm5zjq.jpg"
+            }
+        ]
+    },
+    {
+        "id": "8670",
+        "Название": "Эрмитаж-2",
+        "Гиперссылка": "/catalog/ermitazh-2_1/pg-vinyl-ermitazh-2-600-belyy/",
+        "Изображение": "/upload/resize_cache/iblock/60c/180_180_1/jfuxoi20slto87lejivp0uehgc8zl2op.jpeg",
+        "Цена": 10560,
+        "Покрытие": "Vinyl",
+        "Текущий цвет": "Белый",
+        "Цвета": [
+            {
+                "Название": "Белый",
+                "Изображение": "/upload/uf/4fa/4fa01851501875952d8f3058187a500e.jpg"
+            },
+            {
+                "Название": "Ваниль",
+                "Изображение": "/upload/uf/697/697862b8aa12f63849b0616a04b57c97.jpg"
+            },
+            {
+                "Название": "Серый",
+                "Изображение": "/upload/uf/d38/d38af0f169460ef5a18667d3d8c48e4a.jpg"
+            },
+            {
+                "Название": "Платина",
+                "Изображение": "/upload/uf/9bc/4fqs1c0jvze6s2nqn4ugyhdlzkfm5zjq.jpg"
+            }
+        ]
+    },
+    {
+        "id": "8792",
+        "Название": "Эрмитаж-4",
+        "Гиперссылка": "/catalog/ermitazh-4_1/po-vinyl-ermitazh-4-600-belyy-steklo-matelyuks-s-almaznoy-gravirovkoy-kvadro-/",
+        "Изображение": "/upload/resize_cache/iblock/c5f/180_180_1/zcp1ilwchmt5xqy20wtwrgp2evik0abe.jpeg",
+        "Цена": 10560,
+        "Покрытие": "Vinyl",
+        "Текущий цвет": "Белый",
+        "Цвета": [
+            {
+                "Название": "Белый",
+                "Изображение": "/upload/uf/4fa/4fa01851501875952d8f3058187a500e.jpg"
+            },
+            {
+                "Название": "Ваниль",
+                "Изображение": "/upload/uf/697/697862b8aa12f63849b0616a04b57c97.jpg"
+            },
+            {
+                "Название": "Серый",
+                "Изображение": "/upload/uf/d38/d38af0f169460ef5a18667d3d8c48e4a.jpg"
+            },
+            {
+                "Название": "Платина",
+                "Изображение": "/upload/uf/9bc/4fqs1c0jvze6s2nqn4ugyhdlzkfm5zjq.jpg"
+            }
+        ]
+    },
+    {
+        "id": "19261",
+        "Название": "Эрмитаж-7",
+        "Гиперссылка": "/catalog/ermitazh-7/pg-vinyl-ermitazh-7-600-belyy-/",
+        "Изображение": "/upload/resize_cache/iblock/8f6/180_180_1/063qtjjf2qzrjn5h6y8pm0cym1xb5r9n.png",
+        "Цена": 10560,
+        "Покрытие": "Vinyl",
+        "Текущий цвет": "Белый",
+        "Цвета": [
+            {
+                "Название": "Белый",
+                "Изображение": "/upload/uf/4fa/4fa01851501875952d8f3058187a500e.jpg"
+            },
+            {
+                "Название": "Ваниль",
+                "Изображение": "/upload/uf/697/697862b8aa12f63849b0616a04b57c97.jpg"
+            },
+            {
+                "Название": "Серый",
+                "Изображение": "/upload/uf/d38/d38af0f169460ef5a18667d3d8c48e4a.jpg"
+            },
+            {
+                "Название": "Платина",
+                "Изображение": "/upload/uf/9bc/4fqs1c0jvze6s2nqn4ugyhdlzkfm5zjq.jpg"
+            }
+        ]
+    }
+]

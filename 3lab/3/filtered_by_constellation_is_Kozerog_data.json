@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Канопус 3378",
+        "constellation": "Козерог",
+        "spectral-class": "L0H",
+        "radius": "707739696",
+        "rotation": "867.83 days",
+        "age": "4.45 billion years",
+        "distance": "3032983.39 million km",
+        "absolute-magnitude": "4.14 million km"
+    },
+    {
+        "name": "Полярная звезда 4928",
+        "constellation": "Козерог",
+        "spectral-class": "V4J",
+        "radius": "871000867",
+        "rotation": "858.66 days",
+        "age": "4.73 billion years",
+        "distance": "6582862.62 million km",
+        "absolute-magnitude": "8.44 million km"
+    },
+    {
+        "name": "Антарес 9524",
+        "constellation": "Козерог",
+        "spectral-class": "J1V",
+        "radius": "833878313",
+        "rotation": "740.77 days",
+        "age": "1.92 billion years",
+        "distance": "8641856.08 million km",
+        "absolute-magnitude": "3.93 million km"
+    },
+    {
+        "name": "Полярная звезда 7630",
+        "constellation": "Козерог",
+        "spectral-class": "U4V",
+        "radius": "343830266",
+        "rotation": "527.37 days",
+        "age": "4.94 billion years",
+        "distance": "9732138.91 million km",
+        "absolute-magnitude": "3.3 million km"
+    },
+    {
+        "name": "Вега 7153",
+        "constellation": "Козерог",
+        "spectral-class": "K9C",
+        "radius": "237606026",
+        "rotation": "268.77 days",
+        "age": "4.29 billion years",
+        "distance": "3370998.15 million km",
+        "absolute-magnitude": "5.33 million km"
+    },
+    {
+        "name": "Солнце 8718",
+        "constellation": "Козерог",
+        "spectral-class": "P1M",
+        "radius": "961144359",
+        "rotation": "90.32 days",
+        "age": "5.43 billion years",
+        "distance": "2229491.15 million km",
+        "absolute-magnitude": "8.02 million km"
+    },
+    {
+        "name": "Фомалхаут 9874",
+        "constellation": "Козерог",
+        "spectral-class": "J7J",
+        "radius": "392615132",
+        "rotation": "329.46 days",
+        "age": "3.34 billion years",
+        "distance": "3226770.97 million km",
+        "absolute-magnitude": "9.37 million km"
+    },
+    {
+        "name": "Ригель 9794",
+        "constellation": "Козерог",
+        "spectral-class": "I7W",
+        "radius": "713158423",
+        "rotation": "561.23 days",
+        "age": "3.72 billion years",
+        "distance": "5183262.92 million km",
+        "absolute-magnitude": "9.67 million km"
+    },
+    {
+        "name": "Солнце 6596",
+        "constellation": "Козерог",
+        "spectral-class": "V4O",
+        "radius": "690942014",
+        "rotation": "321.47 days",
+        "age": "1.21 billion years",
+        "distance": "9822394.56 million km",
+        "absolute-magnitude": "6.69 million km"
+    },
+    {
+        "name": "Антарес 3609",
+        "constellation": "Козерог",
+        "spectral-class": "N1E",
+        "radius": "551810427",
+        "rotation": "924.09 days",
+        "age": "4.23 billion years",
+        "distance": "4497485.22 million km",
+        "absolute-magnitude": "6.61 million km"
+    },
+    {
+        "name": "Акрукс 4948",
+        "constellation": "Козерог",
+        "spectral-class": "V2Q",
+        "radius": "108510634",
+        "rotation": "15.93 days",
+        "age": "5.28 billion years",
+        "distance": "7950288.72 million km",
+        "absolute-magnitude": "9.73 million km"
+    },
+    {
+        "name": "Фомалхаут 1888",
+        "constellation": "Козерог",
+        "spectral-class": "C7H",
+        "radius": "574202030",
+        "rotation": "239.53 days",
+        "age": "0.67 billion years",
+        "distance": "9961542.65 million km",
+        "absolute-magnitude": "1.61 million km"
+    }
+]

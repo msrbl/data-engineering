@@ -1,0 +1,3 @@
+avg_price: 4992.31
+max_rating: 4.97
+min_quantity: 4.00
