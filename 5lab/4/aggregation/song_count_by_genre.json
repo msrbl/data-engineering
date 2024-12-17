@@ -1,0 +1,238 @@
+[
+    {
+        "_id": "pop",
+        "count": 420
+    },
+    {
+        "_id": "country",
+        "count": 9
+    },
+    {
+        "_id": "Folk/Acoustic, rock, pop",
+        "count": 1
+    },
+    {
+        "_id": "pop, easy listening, Dance/Electronic",
+        "count": 1
+    },
+    {
+        "_id": "pop, country",
+        "count": 8
+    },
+    {
+        "_id": "World/Traditional, rock, pop",
+        "count": 2
+    },
+    {
+        "_id": "rock, blues, latin",
+        "count": 2
+    },
+    {
+        "_id": "hip hop, pop, country",
+        "count": 1
+    },
+    {
+        "_id": "hip hop, Dance/Electronic",
+        "count": 15
+    },
+    {
+        "_id": "rock, classical",
+        "count": 1
+    },
+    {
+        "_id": "rock, pop",
+        "count": 40
+    },
+    {
+        "_id": "hip hop, rock, pop",
+        "count": 2
+    },
+    {
+        "_id": "rock, blues",
+        "count": 2
+    },
+    {
+        "_id": "hip hop, latin, Dance/Electronic",
+        "count": 1
+    },
+    {
+        "_id": "World/Traditional, pop, Folk/Acoustic",
+        "count": 2
+    },
+    {
+        "_id": "hip hop, R&B",
+        "count": 3
+    },
+    {
+        "_id": "R&B",
+        "count": 13
+    },
+    {
+        "_id": "easy listening",
+        "count": 1
+    },
+    {
+        "_id": "pop, rock, Folk/Acoustic",
+        "count": 2
+    },
+    {
+        "_id": "hip hop, pop, R&B, latin",
+        "count": 2
+    },
+    {
+        "_id": "pop, R&B, easy listening",
+        "count": 1
+    },
+    {
+        "_id": "Folk/Acoustic, pop",
+        "count": 2
+    },
+    {
+        "_id": "hip hop, pop",
+        "count": 267
+    },
+    {
+        "_id": "hip hop, pop, rock",
+        "count": 9
+    },
+    {
+        "_id": "hip hop, pop, Dance/Electronic",
+        "count": 75
+    },
+    {
+        "_id": "Folk/Acoustic, rock",
+        "count": 1
+    },
+    {
+        "_id": "pop, easy listening, jazz",
+        "count": 2
+    },
+    {
+        "_id": "pop, rock",
+        "count": 26
+    },
+    {
+        "_id": "pop, rock, Dance/Electronic",
+        "count": 12
+    },
+    {
+        "_id": "hip hop, pop, latin",
+        "count": 14
+    },
+    {
+        "_id": "World/Traditional, hip hop",
+        "count": 2
+    },
+    {
+        "_id": "rock, Dance/Electronic",
+        "count": 1
+    },
+    {
+        "_id": "hip hop, pop, R&B",
+        "count": 237
+    },
+    {
+        "_id": "pop, R&B, Dance/Electronic",
+        "count": 6
+    },
+    {
+        "_id": "set()",
+        "count": 22
+    },
+    {
+        "_id": "pop, latin",
+        "count": 28
+    },
+    {
+        "_id": "pop, rock, metal",
+        "count": 14
+    },
+    {
+        "_id": "hip hop, pop, R&B, Dance/Electronic",
+        "count": 3
+    },
+    {
+        "_id": "rock, pop, Dance/Electronic",
+        "count": 8
+    },
+    {
+        "_id": "World/Traditional, rock",
+        "count": 2
+    },
+    {
+        "_id": "rock, easy listening",
+        "count": 1
+    },
+    {
+        "_id": "pop, Dance/Electronic",
+        "count": 216
+    },
+    {
+        "_id": "rock, R&B, Folk/Acoustic, pop",
+        "count": 1
+    },
+    {
+        "_id": "pop, Folk/Acoustic",
+        "count": 8
+    },
+    {
+        "_id": "rock, Folk/Acoustic, easy listening",
+        "count": 1
+    },
+    {
+        "_id": "hip hop",
+        "count": 122
+    },
+    {
+        "_id": "hip hop, country",
+        "count": 1
+    },
+    {
+        "_id": "rock",
+        "count": 57
+    },
+    {
+        "_id": "Dance/Electronic",
+        "count": 41
+    },
+    {
+        "_id": "World/Traditional, Folk/Acoustic",
+        "count": 1
+    },
+    {
+        "_id": "rock, Folk/Acoustic, pop",
+        "count": 1
+    },
+    {
+        "_id": "latin",
+        "count": 15
+    },
+    {
+        "_id": "rock, metal",
+        "count": 37
+    },
+    {
+        "_id": "metal",
+        "count": 9
+    },
+    {
+        "_id": "World/Traditional, pop",
+        "count": 1
+    },
+    {
+        "_id": "pop, R&B",
+        "count": 170
+    },
+    {
+        "_id": "rock, pop, metal",
+        "count": 4
+    },
+    {
+        "_id": "country, latin",
+        "count": 1
+    },
+    {
+        "_id": "rock, pop, metal, Dance/Electronic",
+        "count": 1
+    }
+]
