@@ -1,0 +1,206 @@
+[
+    {
+        "column": "source",
+        "memory_usage": 56992462,
+        "percentage": 11.47223634824704,
+        "dtype": "object"
+    },
+    {
+        "column": "device_os",
+        "memory_usage": 54793652,
+        "percentage": 11.029629253910791,
+        "dtype": "object"
+    },
+    {
+        "column": "payment_type",
+        "memory_usage": 51000132,
+        "percentage": 10.266016725085452,
+        "dtype": "object"
+    },
+    {
+        "column": "employment_status",
+        "memory_usage": 51000132,
+        "percentage": 10.266016725085452,
+        "dtype": "object"
+    },
+    {
+        "column": "housing_status",
+        "memory_usage": 51000132,
+        "percentage": 10.266016725085452,
+        "dtype": "object"
+    },
+    {
+        "column": "fraud_bool",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "income",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "name_email_similarity",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "prev_address_months_count",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "current_address_months_count",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "customer_age",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "days_since_request",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "intended_balcon_amount",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "zip_count_4w",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "velocity_6h",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "velocity_24h",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "velocity_4w",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "bank_branch_count_8w",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "date_of_birth_distinct_emails_4w",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "credit_risk_score",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "email_is_free",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "phone_home_valid",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "phone_mobile_valid",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "bank_months_count",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "has_other_cards",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "proposed_credit_limit",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "foreign_request",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "session_length_in_minutes",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "keep_alive_session",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "device_distinct_emails_8w",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "device_fraud_count",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "month",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "int64"
+    },
+    {
+        "column": "x1",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    },
+    {
+        "column": "x2",
+        "memory_usage": 8000132,
+        "percentage": 1.6103779675490117,
+        "dtype": "float64"
+    }
+]
